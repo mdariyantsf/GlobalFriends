@@ -1,0 +1,44 @@
+# GlobalFriends file manifest
+
+Upload every file below to the same path in the GitHub repository (keep the folders).
+
+- `.env.example`
+- `.gitignore`
+- `AI_USE_DISCLOSURE.md`
+- `FILE_MANIFEST.md`
+- `README.md`
+- `index.html`
+- `package.json`
+- `postcss.config.js`
+- `public/_redirects`
+- `public/favicon.svg`
+- `src/App.tsx`
+- `src/components/Layout.tsx`
+- `src/components/Notice.tsx`
+- `src/components/PostCard.tsx`
+- `src/index.css`
+- `src/lib/admin.ts`
+- `src/lib/auth.ts`
+- `src/lib/intelligence.ts`
+- `src/lib/matching.ts`
+- `src/lib/supabase.ts`
+- `src/lib/types.ts`
+- `src/main.tsx`
+- `src/pages/Admin.tsx`
+- `src/pages/Community.tsx`
+- `src/pages/Home.tsx`
+- `src/pages/Intelligence.tsx`
+- `src/pages/Login.tsx`
+- `src/pages/Matching.tsx`
+- `src/pages/NotFound.tsx`
+- `src/pages/PenPals.tsx`
+- `src/pages/Profile.tsx`
+- `src/pages/Register.tsx`
+- `src/vite-env.d.ts`
+- `supabase/schema.sql`
+- `tailwind.config.js`
+- `tsconfig.app.json`
+- `tsconfig.json`
+- `tsconfig.node.json`
+- `vercel.json`
+- `vite.config.ts`
